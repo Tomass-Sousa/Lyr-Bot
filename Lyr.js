@@ -1,4 +1,9 @@
+"use strict";
 
+//Start
+const discord = require('discord.js');
+const client = new discord.Client();
+const { prefix, DISCORD_TOKEN} = require('./config.json')
 
 //Musique 
 const fs = require('ffmpeg-static');
@@ -487,6 +492,7 @@ client.on('messageReactionRemove', async (reaction, user) => {
 
 //login
 client.login(DISCORD_TOKEN);  
+
 
 
 
