@@ -1,4 +1,4 @@
-# Lyr - Bot Serveur
+# Lyr - Bot Serve
 
 **Lyr** est un bot pour des serveurs Discord multifonction développé pour animer, modérer et accompagner les membres d’un serveur communautaire. Pensé avec une touche d’humour, ce bot offre des fonctionnalités variées allant de la modération à la gestion musicale
 
